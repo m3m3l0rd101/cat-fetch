@@ -1,5 +1,5 @@
 ascii_magic
 pillow
-glob
+os
 random
 shutil
