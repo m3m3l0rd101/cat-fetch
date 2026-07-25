@@ -21,7 +21,7 @@ source your_name_of_choice/bin/activate.fish
 then after that you run the pip command 
 
 
-first to run your script you first need to run clean.py i'll enhances and unsharpen your images so that they'll look better in ascii 
+first to run your script you first need to run clean.py it'll enhances and unsharpen your images so that they'll look better in ascii 
 feel free to add other pictures then the ones provides the script runs for that as well 
 
 after that you just run the main.py script and tadaa it works 
