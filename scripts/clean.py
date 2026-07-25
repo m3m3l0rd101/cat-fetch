@@ -9,6 +9,7 @@ def add_files():
     for file in files:
         if f != file:
             f.write(file)
+            f.write("\n")
         
 
 
