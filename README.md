@@ -26,4 +26,12 @@ feel free to add other pictures then the ones provides the script runs for that 
 
 after that you just run the main.py script and tadaa it works 
 
+examples yayyyy:
+![alt text](https://github.com/m3m3l0rd101/cat-fetch/edit/main/examples/260725_23h38m29s_screenshot.png)
+![alt text](https://github.com/m3m3l0rd101/cat-fetch/edit/main/examples/260725_23h43m19s_screenshot.png)
+![alt text](https://github.com/m3m3l0rd101/cat-fetch/edit/main/examples/260725_23h44m55s_screenshot.png)
+![alt text](https://github.com/m3m3l0rd101/cat-fetch/edit/main/examples/260725_23h44m19s_screenshot.png)
+
+
+
 bye bye this was dumb project
