@@ -31,3 +31,8 @@ you can just go find them in the examples dir i'm too lazy to add them also idc 
 
 
 bye bye this was dumb project
+
+btw you have to clone this :
+```
+git clone https://github.com/m3m3l0rd101/cat-fetch
+```
