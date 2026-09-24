@@ -1,3 +1,2 @@
 ascii_magic
 pillow
-shutil
