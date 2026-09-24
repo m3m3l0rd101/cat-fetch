@@ -7,7 +7,7 @@ to run this you need to first download dependencies which are all in the require
 ```
 pip install -r requirements.txt 
 ```
-or if you are like me in linux you could set up a venv env :
+or if you are using linux like me then, you could set up a venv env :
 ``` 
 python -m venv your_name_of_choice/
 ```
